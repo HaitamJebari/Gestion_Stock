@@ -61,7 +61,7 @@
             this.guna2Button1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.guna2Button1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2Button1.ForeColor = System.Drawing.Color.White;
-            this.guna2Button1.Location = new System.Drawing.Point(413, 647);
+            this.guna2Button1.Location = new System.Drawing.Point(398, 562);
             this.guna2Button1.Name = "guna2Button1";
             this.guna2Button1.Size = new System.Drawing.Size(154, 45);
             this.guna2Button1.TabIndex = 24;
@@ -76,7 +76,7 @@
             this.add.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.add.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.add.ForeColor = System.Drawing.Color.White;
-            this.add.Location = new System.Drawing.Point(117, 647);
+            this.add.Location = new System.Drawing.Point(109, 562);
             this.add.Name = "add";
             this.add.Size = new System.Drawing.Size(154, 45);
             this.add.TabIndex = 23;

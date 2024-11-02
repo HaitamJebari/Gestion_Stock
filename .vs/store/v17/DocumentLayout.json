@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "E:\\HaitamJebari\\My Projects\\store\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6738A380-1B23-4698-8502-5CF1D3DA5FF5}|store\\store.csproj|e:\\haitamjebari\\my projects\\store\\store\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6738A380-1B23-4698-8502-5CF1D3DA5FF5}|store\\store.csproj|solutionrelative:store\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6738A380-1B23-4698-8502-5CF1D3DA5FF5}|store\\store.csproj|e:\\haitamjebari\\my projects\\store\\store\\addorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6738A380-1B23-4698-8502-5CF1D3DA5FF5}|store\\store.csproj|solutionrelative:store\\addorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6738A380-1B23-4698-8502-5CF1D3DA5FF5}|store\\store.csproj|E:\\HaitamJebari\\My Projects\\store\\store\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6738A380-1B23-4698-8502-5CF1D3DA5FF5}|store\\store.csproj|solutionrelative:store\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6738A380-1B23-4698-8502-5CF1D3DA5FF5}|store\\store.csproj|e:\\haitamjebari\\my projects\\store\\store\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6738A380-1B23-4698-8502-5CF1D3DA5FF5}|store\\store.csproj|solutionrelative:store\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,30 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AddOrder.cs [Design]",
-              "DocumentMoniker": "E:\\HaitamJebari\\My Projects\\store\\store\\AddOrder.cs",
-              "RelativeDocumentMoniker": "store\\AddOrder.cs",
-              "ToolTip": "E:\\HaitamJebari\\My Projects\\store\\store\\AddOrder.cs [Design]",
-              "RelativeToolTip": "store\\AddOrder.cs [Design]",
+              "Title": "Customers.cs",
+              "DocumentMoniker": "E:\\HaitamJebari\\My Projects\\store\\store\\Customers.cs",
+              "RelativeDocumentMoniker": "store\\Customers.cs",
+              "ToolTip": "E:\\HaitamJebari\\My Projects\\store\\store\\Customers.cs",
+              "RelativeToolTip": "store\\Customers.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T09:52:44.315Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-01T16:02:19.421Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AddCustomer.cs [Design]",
-              "DocumentMoniker": "E:\\HaitamJebari\\My Projects\\store\\store\\AddCustomer.cs",
-              "RelativeDocumentMoniker": "store\\AddCustomer.cs",
-              "ToolTip": "E:\\HaitamJebari\\My Projects\\store\\store\\AddCustomer.cs [Design]",
-              "RelativeToolTip": "store\\AddCustomer.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T09:52:08.414Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Customers.cs [Design]",
               "DocumentMoniker": "E:\\HaitamJebari\\My Projects\\store\\store\\Customers.cs",
               "RelativeDocumentMoniker": "store\\Customers.cs",
